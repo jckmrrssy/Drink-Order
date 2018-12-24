@@ -49,8 +49,8 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Authors
 
-See the list of [contributors](https://github.com/jckmrrssy/Drink-Order/graphs/contributors) who participated in this projec with me along with commit individual commit history. 
+See the list of [contributors](https://github.com/jckmrrssy/Drink-Order/graphs/contributors) who participated in this project with me along with commit individual commit history. 
 
 ## Planned updates
 
-At the moment, this app is the minimum viable product. We hope to make updates to improve the UI/UX, and more pricing functionality and features (such as setting a target cost, markup %, etc). We also have plans to build out a mobile version of the applicaiton using React Native, to make it even easier for managers to quickly price out their menus. 
+At the moment, this app is the minimum viable product. We hope to make updates to improve the UI/UX, and add more pricing functionality and features (such as setting a target cost, markup %, etc). We also have plans to build out a mobile version of the applicaiton using React Native, to make it even easier for managers to quickly price out their menus. 
