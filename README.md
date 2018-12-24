@@ -1,40 +1,31 @@
-# Drink-Order
+# Drink Order
 
 Full-stack application with the intention of helping bar managers quickly and accurately price out drinks when creating new cocktail menus. 
 
+## [Deployed Link](https://drink-order.herokuapp.com/)
+
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. It will also give an overview of some of the app's functionality. 
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+First, git clone the repository
 
-Say what the step will be
-
+SSH:
 ```
-Give the example
+git@github.com:jckmrrssy/Drink-Order.git
 ```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+https:
+````
+https://github.com/jckmrrssy/Drink-Order.git
+````
 
 
 
-## Deployment
+### Using
+
+
 
 
 ## Built With
