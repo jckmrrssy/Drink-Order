@@ -49,7 +49,7 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Authors
 
-See the list of [contributors](https://github.com/jckmrrssy/Drink-Order/graphs/contributors) who participated in this project with me along with commit individual commit history. 
+See the list of [contributors](https://github.com/jckmrrssy/Drink-Order/graphs/contributors) who participated in this project with me along with individual commit history. 
 
 ## Planned updates
 
