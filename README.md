@@ -53,4 +53,4 @@ See the list of [contributors](https://github.com/jckmrrssy/Drink-Order/graphs/c
 
 ## Planned updates
 
-At the moment, this app is the minimum viable product. We hope to make updates to improve the UI/UX, and add more pricing functionality and features (such as setting a target cost, markup %, etc). We also have plans to build out a mobile version of the applicaiton using React Native, to make it even easier for managers to quickly price out their menus. 
+At the moment, this app is the minimum viable product. We hope to make updates to improve the UI/UX, and add more pricing functionality and features (such as setting a target cost, markup %, etc). We also have plans to build out a mobile version of the application using React Native, to make it even easier for managers to quickly price out their menus. 
