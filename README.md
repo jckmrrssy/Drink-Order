@@ -1,6 +1,6 @@
 # Drink-Order
 
-Application with the intention of helping bar managers quickly and accurately price out drinks when creating new cocktail menus. 
+Full-stack application with the intention of helping bar managers quickly and accurately price out drinks when creating new cocktail menus. 
 
 ## Getting Started
 
