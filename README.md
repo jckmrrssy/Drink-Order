@@ -4,30 +4,6 @@ Full-stack application with the intention of helping bar managers quickly and ac
 
 ## [Deployed Link](https://drink-order.herokuapp.com/)
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. It will also give an overview of some of the app's functionality. 
-
-### Installing
-
-First, git clone the repository
-
-SSH:
-```
-git@github.com:jckmrrssy/Drink-Order.git
-```
-https:
-````
-https://github.com/jckmrrssy/Drink-Order.git
-````
-
-
-
-### Using
-
-
-
-
 ## Built With
 
 * [MongoDB](https://www.mongodb.com/) - NoSQL Database
@@ -36,7 +12,6 @@ https://github.com/jckmrrssy/Drink-Order.git
 * [Node.js](https://nodejs.org/en/) - Asynchronous event driven JavaScript runtime
 * [Yarn](https://yarnpkg.com/en/) - Dependency management
 * [Materialize](https://materializecss.com/) - CSS framework
-
 
 ## Authors
 
