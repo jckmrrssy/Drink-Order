@@ -12,7 +12,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 You will need MongoDB installed if you want to run this application locally. For help installing MongoDB, visit
 ````
-$ https://docs.mongodb.com/manual/installation/
+https://docs.mongodb.com/manual/installation/
 ````
 
 Once installed, make sure the MongoDB daemon is running with the following command line command:
@@ -35,7 +35,7 @@ $ git@github.com:jckmrrssy/Drink-Order.git
 
 To connect to your local Mongo database, you will need to add an .env file in the root of your cloned repository containing the following code:
 ````
-$ MONGO_DB="mongodb://localhost/<you decide the name here>"
+MONGO_DB="mongodb://localhost/<you decide the name here>"
 ````
 
 Next, cd into the repository you cloned and install the necessary dependencies by running:
