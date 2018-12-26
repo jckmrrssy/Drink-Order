@@ -8,7 +8,7 @@ Full-stack application with the intention of helping bar managers quickly and ac
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. It will also give an overview of some of the app's functionality. 
 
-### Prerequisities
+### Prerequisites
 
 You will need MongoDB installed if you want to run this application locally. For help installing MongoDB, visit
 ````
