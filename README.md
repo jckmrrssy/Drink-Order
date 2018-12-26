@@ -57,7 +57,7 @@ $ yarn start
 * [MongoDB](https://www.mongodb.com/) - NoSQL Database
 * [Express.js](https://expressjs.com/) - Node.js framework
 * [React.js](https://reactjs.org/) - MVC front-end framework 
-* [Node.js](https://nodejs.org/en/) - Asynchronous event driven JavaScript runtime
+* [Node.js](https://nodejs.org/en/) - JavaScript runtime
 * [Yarn](https://yarnpkg.com/en/) - Dependency management
 * [Materialize](https://materializecss.com/) - CSS framework
 * [Auth0](https://auth0.com/) - Authentication platform
