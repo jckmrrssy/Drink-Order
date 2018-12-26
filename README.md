@@ -60,6 +60,7 @@ $ yarn start
 * [Node.js](https://nodejs.org/en/) - Asynchronous event driven JavaScript runtime
 * [Yarn](https://yarnpkg.com/en/) - Dependency management
 * [Materialize](https://materializecss.com/) - CSS framework
+* [Auth0](https://auth0.com/) - Authentication platform
 
 ## Authors
 
