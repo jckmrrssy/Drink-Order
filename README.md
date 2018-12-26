@@ -8,7 +8,7 @@ Full-stack application with the intention of helping bar managers quickly and ac
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. It will also give an overview of some of the app's functionality. 
 
-### Prerequisities
+### Prerequisites
 
 You will need MongoDB installed if you want to run this application locally. For help installing MongoDB, visit
 ````
@@ -26,11 +26,11 @@ Git clone the repository to your local machine:
 
 HTTPS:
 ```
-https://github.com/jckmrrssy/Drink-Order.git
+$ https://github.com/jckmrrssy/Drink-Order.git
 ```
 SSH:
 ````
-git@github.com:jckmrrssy/Drink-Order.git
+$ git@github.com:jckmrrssy/Drink-Order.git
 ````
 
 To connect to your local Mongo database, you will need to add an .env file in the root of your cloned repository containing the following code:
@@ -57,9 +57,10 @@ $ yarn start
 * [MongoDB](https://www.mongodb.com/) - NoSQL Database
 * [Express.js](https://expressjs.com/) - Node.js framework
 * [React.js](https://reactjs.org/) - MVC front-end framework 
-* [Node.js](https://nodejs.org/en/) - Asynchronous event driven JavaScript runtime
+* [Node.js](https://nodejs.org/en/) - JavaScript runtime
 * [Yarn](https://yarnpkg.com/en/) - Dependency management
 * [Materialize](https://materializecss.com/) - CSS framework
+* [Auth0](https://auth0.com/) - Authentication platform
 
 ## Authors
 
