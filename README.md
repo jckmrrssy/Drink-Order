@@ -33,6 +33,11 @@ SSH:
 git@github.com:jckmrrssy/Drink-Order.git
 ````
 
+To connect to your local Mongo database, you will need to add an .env file in the root of your cloned repository containing the following code:
+````
+MONGO_DB="mongodb://localhost/<you decide the name here>"
+````
+
 Next, cd into the repository you cloned and install the necessary dependencies by running:
 ````
 $ yarn install
@@ -45,20 +50,7 @@ $ yarn start
 
 ### Using
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
+[Demo](link to demo)
 
 ## Built With
 
@@ -71,7 +63,7 @@ until finished
 
 ## Authors
 
-See the list of [contributors](https://github.com/jckmrrssy/Drink-Order/graphs/contributors) who participated in this project with me along with individual commit history. 
+See the list of [contributors](https://github.com/jckmrrssy/Drink-Order/graphs/contributors) who participated in this project along with individual commit history. 
 
 ## Planned updates
 
