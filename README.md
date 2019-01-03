@@ -2,13 +2,15 @@
 
 Full-stack application with the intention of helping bar managers quickly and accurately price out drinks when creating new cocktail menus. 
 
-## [Deployed Link](https://drink-order.herokuapp.com/)
+## [Try it yourself](https://drink-order.herokuapp.com/)
 
 ![image](./client/public/drinkOrder.png)
 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. It will also give an overview of some of the app's functionality. 
+
+### [Using the app](https://drive.google.com/open?id=1mldi4SOIyLZvnL_Rrcy5Qb4DPSQhJPNx)
 
 ### Prerequisites
 
@@ -49,10 +51,6 @@ You will then be able to start the app locally by runnning:
 ````
 $ yarn start
 ````
-
-### Using
-
-[Demo](link to demo)
 
 ## Built With
 
