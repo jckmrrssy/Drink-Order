@@ -4,7 +4,7 @@ Full-stack application with the intention of helping bar managers quickly and ac
 
 ## [Try it yourself!](https://drink-order.herokuapp.com/) 
 
-Or you can watch the demo video [here.](https://drive.google.com/open?id=1mldi4SOIyLZvnL_Rrcy5Qb4DPSQhJPNx)
+### Or you can watch the demo video [here.](https://drive.google.com/open?id=1mldi4SOIyLZvnL_Rrcy5Qb4DPSQhJPNx)
 
 ![image](./client/public/drinkOrder.png)
 
