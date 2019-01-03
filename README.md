@@ -4,7 +4,7 @@ Full-stack application with the intention of helping bar managers quickly and ac
 
 ## [Deployed Link](https://drink-order.herokuapp.com/)
 
-[Drink Order screenshot](client/public/drinkOrder.png)
+[Drink Order screenshot](./client/public/drinkOrder.png)
 
 ## Getting Started
 
