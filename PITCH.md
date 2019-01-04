@@ -1,5 +1,5 @@
 ### Elevator Pitch
-Bars are a business, and thus, they need to make money. The main crux of how much money an establishment can make is what they should charge for liquor. Charge too little, and the bar will bleed money. Charge too much, and the clientele will stop coming in and pumping money into the place. So a happy medium needs to be found, to enable the bar to make money, while still enticing customers in. Our app, "Drink Order", seeks to streamline the process for bars, giving them an easy to use application so they can find that "happy medium" when it comes to pricing the drinks that they serve to customer.
+Bars are a business, and thus, they need to make money. The main crux of how much money an establishment can make is what they should charge for liquor. Charge too little, and the bar will bleed money. Charge too much, and the clientele will stop coming in and pumping money into the place. So a happy medium needs to be found, to enable the bar to make money, while still enticing customers in. Our app, "Drink Order", seeks to streamline the process for bars, giving them an easy to use application so they can find that "happy medium."
 
 ### Description
 Here's how the app works: 
