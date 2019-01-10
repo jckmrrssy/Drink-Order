@@ -66,34 +66,9 @@ class AddLiquor extends Component {
     render() {
         return (
 
-            // <div>
-            //     {this.state.drinkLiquors.map((liquor) => (
-            //     <div>
-            //         <p>{liquor.name}</p><input value={liquor.volume}/>
-            //         <button onClick={this.removeDrink(liquor.id)}>Delete</button></div>
-
-            //     ))}
-            //     <select onChange={this.changeSelected}>
-            //     {this.state.allLiquors.map((liquor,i) => (
-            //         <option name={i} value={liquor._id}>{liquor.name}</option>
-            //     ))}
-            //     </select>
-            //     <button onClick={this.addDrink}>Add</button>
-            // </div>
-
             <form className="container center">
                 <Row>
                     <label>Add Liquor</label>
-                    {/* <Input
-                        s={12}
-                        label="Liquor"
-                        onChange={this.handleChange}
-                        value={this.state.content}
-                        name="liquor"
-                        type="text"
-                        className="form-control"
-                        id="AddDrink"
-                    /> */}
                 </Row>
 
 
@@ -109,11 +84,7 @@ class AddLiquor extends Component {
                             <option name={index} value={liquor.id}>{liquor.name}</option>
                         ))}
                     </Input>
-                    {/* <select onChange={this.changeSelected}>
-                        {this.state.allLiquors.map((liquor,i) => (
-                            <option name={i} value={liquor._id}>{liquor.name}</option>
-                        ))}
-                    </select> */}
+    
                 </Row>
 
                 <Row>

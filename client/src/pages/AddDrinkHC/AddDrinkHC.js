@@ -1,3 +1,4 @@
+
 import React, { Component } from "react";
 // import DrinkFormHC from "./DrinkFormHC.js";
 import API from "../../utils/API";
@@ -11,10 +12,6 @@ class AddDrinkHC extends Component {
     allLiquors:[],
     allLiquors:[],
     Liquor1Vol:''
-    // name: "",
-    // type: "",
-    // bottleVolume: "",
-    // bottleCost: ""
   };
   // When page is displayed, loadLiquor is called
   componentDidMount() {
@@ -31,11 +28,6 @@ class AddDrinkHC extends Component {
   handleChange = (event) => {
       this.setState({
       content: event.target.value
-  // Sets a new search state based on the user input
-  // handleInputChange = event => {
-  //   const { name, value } = event.target
-  //   this.setState({
-  //     [name]: value
     });
   };
   handleSubmit = (event) => {
@@ -48,18 +40,7 @@ class AddDrinkHC extends Component {
         content: ''
     })
   }
-  // Grabs the user's liqour input from the state and saves it in the mongo database
-  // handleSaveLiquor = event => {
-  //   event.preventDefault();
-  //   API.saveDrink({
-  //     name: this.state.name,
-  //     type: this.state.type,
-  //     bottleVolume: this.state.bottleVolume,
-  //     bottleCost: this.state.bottleCost
-  //   })
-  //     .catch(err => console.log(err));
-  //   this.setState({ name: "", type: "", bottleVolume: "", bottleCost: "" })
-  // };
+  
 
   render() {
 

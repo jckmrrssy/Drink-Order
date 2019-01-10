@@ -7,29 +7,11 @@ const recipeLiquorSchema = new Schema({
   volume: Number
  });
 
-//  const mixerSchema = new Schema({ 
-//   name: String,
-//   volume: Number
-//  });
-
-//  const garnishSchema = new Schema({ 
-//   name: String,
-//   quantity: Number
-//  });
-
-// const recipeSchema = new Schema({
-//   name: { type: String, required: true },
-//   liquors: [recipeLiquorSchema],
-//   mixers: [mixerSchema],
-//   garnishes: [garnishSchema],
-//   glassType: String,
-//   prep: String,
-//   cost: Number,
-//   price: Number
-// });
-
 const drinkSchema = new Schema({
-  name: { type: String, required: true },
+  name: { 
+    type: String, 
+    required: true 
+    },
   liquors: [recipeLiquorSchema],
   // mixers: String,
   // garnishes: String,
@@ -37,8 +19,11 @@ const drinkSchema = new Schema({
   prep: String,
   cost: Number,
   price: Number,
-  //added to tie drinks to specific USER
-  userID: {type: String, required: true}
+  // added to tie drinks to specific USER
+  userID: {
+    type: String, 
+    required: true
+  }
 });
 
 const Drink = mongoose.model("Drink", drinkSchema);
