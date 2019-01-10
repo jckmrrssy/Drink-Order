@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 import { Button, Input, Row } from 'react-materialize';
 import API from "../../utils/API";
-import NavTabs from "../../NavTabs/NavTabs";
+import NavTabs from "../../components/NavTabs/NavTabs";
 import Liquors from "./Liquors.js";
 import "./AddDrink.css";
-import Footer from "../../Footer/Footer";
+import Footer from "../../components/Footer/Footer";
 import Profile from "../../Profile/Profile"
 // const { isAuthenticated } = this.props.auth;
 

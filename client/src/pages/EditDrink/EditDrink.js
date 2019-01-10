@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import DrinkList from "./DrinkList.js";
 import DrinkHeader from "./DrinkHeader.js";
 import API from "../../utils/API";
-import NavTabs from "../../NavTabs/NavTabs";
+import NavTabs from "../../components/NavTabs/NavTabs";
 import Profile from "../../Profile/Profile"
 
 class EditDrink extends Component {

@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import LiquorList from "./LiquorList.js";
 import LiquorHeader from "./LiquorHeader.js";
 import API from "../../utils/API";
-import NavTabs from "../../NavTabs/NavTabs";
+import NavTabs from "../../components/NavTabs/NavTabs";
 import Profile from "../../Profile/Profile"
 
 class EditLiquor extends Component {

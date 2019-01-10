@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import LiquorForm from "./LiquorForm.js";
 import API from "../../utils/API";
-import NavTabs from "../../NavTabs/NavTabs";
+import NavTabs from "../../components/NavTabs/NavTabs";
 import AutoSelect from "../../utils/Select";
 import Profile from "../../Profile/Profile";
 

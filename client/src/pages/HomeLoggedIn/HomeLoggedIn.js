@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import "./HomeLoggedIn.css";
 // import { Footer, NavTabs} from 'react-materialize';
-import NavTabs from "../../NavTabs/NavTabs"
-import Footer from "../../Footer"
+import NavTabs from "../../components/NavTabs/NavTabs"
+import Footer from "../../components/Footer"
 import Profile from "../../Profile/Profile"
 
 export default class Home extends Component {

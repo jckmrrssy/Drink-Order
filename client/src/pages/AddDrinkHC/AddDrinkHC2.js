@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import DrinkFormHC from "./DrinkFormHC.js";
 import API from "../../utils/API";
-import NavTabs from "../../NavTabs/NavTabs";
+import NavTabs from "../../components/NavTabs/NavTabs";
 
 class AddDrinkHC2 extends Component {
   state = {
