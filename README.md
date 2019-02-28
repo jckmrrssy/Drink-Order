@@ -1,6 +1,6 @@
 # Drink Order
 
-Full-stack application with the intention of helping bar managers quickly and accurately price out drinks when creating new cocktail menus. 
+Full-stack application designed to help bar managers quickly and accurately price out drinks when creating new cocktail menus. 
 
 ## [Try it yourself!](https://drink-order.herokuapp.com/) 
 
