@@ -10,7 +10,7 @@ Full-stack application designed to help bar managers quickly and accurately pric
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. It will also give an overview of some of the app's functionality. 
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. They will also give an overview of some of the app's functionality. 
 
 ### Prerequisites
 
